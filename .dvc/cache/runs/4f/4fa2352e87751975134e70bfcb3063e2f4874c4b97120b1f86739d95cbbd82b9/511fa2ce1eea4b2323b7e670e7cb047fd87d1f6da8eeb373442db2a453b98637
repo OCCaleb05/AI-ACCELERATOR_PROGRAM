@@ -1,0 +1,31 @@
+cmd: python "Python Codes/housing-price-mlops1/src/preprocess.py"
+deps:
+- path: Python Codes/housing-price-mlops1/data/nigeria_housing_data_v1.csv
+  hash: md5
+  md5: fc5364254e84bb5636d92e7283c03d2c
+  size: 74198
+- path: Python Codes/housing-price-mlops1/src/preprocess.py
+  hash: md5
+  md5: b75f8e8c9ecd01d84f2c80d5c0952106
+  size: 1975
+outs:
+- path: Python Codes/housing-price-mlops1/data/X_test.csv
+  hash: md5
+  md5: 48a765fe82cce2ea253879bb0e59f363
+  size: 13566
+- path: Python Codes/housing-price-mlops1/data/X_train.csv
+  hash: md5
+  md5: 8c98eafed830b68d57718a72ae048801
+  size: 53517
+- path: Python Codes/housing-price-mlops1/data/preprocessor.pkl
+  hash: md5
+  md5: c973d86ffcd058093ac961163b6cfa3d
+  size: 1026
+- path: Python Codes/housing-price-mlops1/data/y_test.csv
+  hash: md5
+  md5: bc7a89c28fc462204800ea8c7dc4ffca
+  size: 2583
+- path: Python Codes/housing-price-mlops1/data/y_train.csv
+  hash: md5
+  md5: c6d97b666ad0ce4d9a9d62a146b1a616
+  size: 10264

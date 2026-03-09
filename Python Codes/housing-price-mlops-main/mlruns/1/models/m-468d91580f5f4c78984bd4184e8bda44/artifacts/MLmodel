@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/UthmanAbdulrahman/Documents/housing-price-mlops/mlruns/1/models/m-468d91580f5f4c78984bd4184e8bda44/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-468d91580f5f4c78984bd4184e8bda44
+model_size_bytes: 2923
+model_uuid: m-468d91580f5f4c78984bd4184e8bda44
+prompts: null
+run_id: 5510679ba32f4caca1cb66e908252f20
+utc_time_created: '2026-02-08 06:35:56.599070'

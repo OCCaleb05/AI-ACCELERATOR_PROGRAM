@@ -1,0 +1,27 @@
+cmd: python "Python Codes/housing-price-mlops1/src/train.py"
+deps:
+- path: Python Codes/housing-price-mlops1/data/X_train.csv
+  hash: md5
+  md5: 8c98eafed830b68d57718a72ae048801
+  size: 53517
+- path: Python Codes/housing-price-mlops1/data/preprocessor.pkl
+  hash: md5
+  md5: c973d86ffcd058093ac961163b6cfa3d
+  size: 1026
+- path: Python Codes/housing-price-mlops1/data/y_train.csv
+  hash: md5
+  md5: c6d97b666ad0ce4d9a9d62a146b1a616
+  size: 10264
+- path: Python Codes/housing-price-mlops1/params.yaml
+  hash: md5
+  md5: a8d3b00775012cdc640cbd52dd57390c
+  size: 104
+- path: Python Codes/housing-price-mlops1/src/train.py
+  hash: md5
+  md5: 130ac1242ab66202ea3bf7c9615ff142
+  size: 3146
+outs:
+- path: metrics.json
+  hash: md5
+  md5: 668c45a4727915b29fa5a9a950d97213
+  size: 280
