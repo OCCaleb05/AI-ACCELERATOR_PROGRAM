@@ -1,0 +1,14 @@
+# Ignore large asset directories and local caches
+SAT_ALERT/.venv-tf/
+SAT_ALERT/data/
+SAT_ALERT/models/
+Python Codes/housing-price-mlops-main/mlartifacts/
+Python Codes/housing-price-mlops-main/mlruns/
+.dvc/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+Python Codes/housing-price-mlops1/
+

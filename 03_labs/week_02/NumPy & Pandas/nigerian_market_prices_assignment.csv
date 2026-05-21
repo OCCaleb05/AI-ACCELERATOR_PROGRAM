@@ -1,0 +1,1001 @@
+market_id,market_name,state,product,price,unit,date,trader_name
+MKT001,Bodija Market,Oyo,Beans,"₦5,770",Kg,01-02-2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Yam,"₦2,534",basket,07/02/2024,bello
+MKT001,Bodija Market,Oyo,Yam,,50kg,22/02/2024,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,,Paint Rubber,29-01-2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Gari,-2616,kg,2024/01/31,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,"₦6,166",Basket,11-01-2024,SADIYA
+MKT003,Ogbete Market,Enugu,Gari,"₦5,367",kg,2024/03/19,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,-1901,Basket,2024-03-13,CHINEDU
+MKT003,Ogbete Market,Enugu,Rice,"₦43,890",kg,15/03/2024,SADIYA
+MKT002,Mile 12,Lagos,Tomatoes,6292,50kg,31-03-2024,bello
+MKT005,Ariaria Market,Abia,Tomatoes,₦112,Paint Rubber,27-02-2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,,Paint Rubber,2024/03/10,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,₦-915,50kg,2024/01/05,mama nkechi
+MKT001,Bodija Market,Oyo,Yam,643,Paint Rubber,2024/03/15,alhaji musa
+MKT001,Bodija Market,Oyo,Gari,-3639,50kg,05-03-2024,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦5,129",Basket,26/03/2024,bello
+MKT004,Wuse Market,Abuja,Gari,3063,basket,2024-03-30,mama nkechi
+MKT003,Ogbete Market,Enugu,Gari,"₦1,059",Kg,2024-03-17,BELLO
+MKT005,Ariaria Market,Abia,Rice,,Kg,05-03-2024,chinedu
+MKT003,Ogbete Market,Enugu,Yam,"₦-1,173",Paint Rubber,13-03-2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Rice,40391,Kg,2024-02-18,SADIYA
+MKT003,Ogbete Market,Enugu,Gari,2384,Paint Rubber,2024-01-16,mama nkechi
+MKT003,Ogbete Market,Enugu,Tomatoes,,50kg,2024/01/20,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,6496,Basket,07/02/2024,bello
+MKT005,Ariaria Market,Abia,Rice,45056,Kg,2024/02/23,chinedu
+MKT004,Wuse Market,Abuja,Rice,41028,50kg,2024/03/17,sadiya
+MKT002,Mile 12,Lagos,Gari,₦688,kg,2024-01-17,sadiya
+MKT001,Bodija Market,Oyo,Gari,,Basket,2024-02-04,sadiya
+MKT003,Ogbete Market,Enugu,Beans,7255,basket,13-02-2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Yam,3174,50kg,2024/01/05,CHINEDU
+MKT004,Wuse Market,Abuja,Beans,8414,basket,2024-01-20,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,8289,Basket,21/01/2024,sadiya
+MKT002,Mile 12,Lagos,Gari,-173,50kg,2024-02-08,mama nkechi
+MKT002,Mile 12,Lagos,Tomatoes,"₦3,092",kg,2024/02/13,BELLO
+MKT005,Ariaria Market,Abia,Gari,2976,basket,01-03-2024,BELLO
+MKT002,Mile 12,Lagos,Gari,"₦1,775",basket,2024/03/22,chinedu
+MKT005,Ariaria Market,Abia,Yam,"₦-2,537",kg,27-01-2024,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,₦804,Basket,2024-03-06,BELLO
+MKT001,Bodija Market,Oyo,Rice,"₦41,291",Paint Rubber,2024-01-17,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,"₦1,196",kg,08/03/2024,alhaji musa
+MKT005,Ariaria Market,Abia,Beans,-646,50kg,2024-02-19,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Yam,"₦2,049",Paint Rubber,2024-01-21,bello
+MKT004,Wuse Market,Abuja,Gari,"₦1,131",50kg,2024/01/25,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,44389,kg,2024/03/28,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,-1270,basket,05/02/2024,SADIYA
+MKT003,Ogbete Market,Enugu,Yam,"₦1,082",Kg,2024/03/16,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,4598,Kg,17-03-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,411,kg,16/03/2024,bello
+MKT004,Wuse Market,Abuja,Gari,"₦2,894",basket,2024/01/22,alhaji musa
+MKT005,Ariaria Market,Abia,Yam,3416,50kg,2024-01-17,mama nkechi
+MKT001,Bodija Market,Oyo,Beans,-1238,kg,11-02-2024,sadiya
+MKT004,Wuse Market,Abuja,Rice,42049,Kg,17/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Yam,"₦3,958",Kg,12/03/2024,bello
+MKT004,Wuse Market,Abuja,Gari,"₦-2,646",50kg,2024-03-06,bello
+MKT005,Ariaria Market,Abia,Beans,148,Paint Rubber,2024-02-26,sadiya
+MKT005,Ariaria Market,Abia,Beans,1057,Kg,29-03-2024,BELLO
+MKT005,Ariaria Market,Abia,Tomatoes,2473,50kg,2024-01-05,sadiya
+MKT003,Ogbete Market,Enugu,Rice,,Paint Rubber,2024/03/12,alhaji musa
+MKT005,Ariaria Market,Abia,Yam,1711,Basket,2024-01-12,bello
+MKT002,Mile 12,Lagos,Yam,1296,Paint Rubber,2024-01-13,alhaji musa
+MKT002,Mile 12,Lagos,Rice,43446,basket,02/01/2024,mama nkechi
+MKT002,Mile 12,Lagos,Yam,5554,Kg,2024-03-27,sadiya
+MKT001,Bodija Market,Oyo,Tomatoes,2393,50kg,30-03-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,4196,50kg,12/02/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,6179,Basket,12-03-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Beans,1944,basket,2024-03-02,sadiya
+MKT001,Bodija Market,Oyo,Gari,-380,basket,24/02/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Yam,,basket,19/02/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,"₦42,975",Paint Rubber,2024/03/18,MAMA NKECHI
+MKT002,Mile 12,Lagos,Yam,-1384,kg,18-03-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,233,basket,18-03-2024,bello
+MKT004,Wuse Market,Abuja,Rice,"₦43,009",basket,2024-01-02,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,5596,Paint Rubber,19/02/2024,bello
+MKT004,Wuse Market,Abuja,Beans,4301,Kg,20-01-2024,bello
+MKT005,Ariaria Market,Abia,Gari,"₦4,916",Basket,2024/01/11,bello
+MKT001,Bodija Market,Oyo,Beans,,Paint Rubber,07/03/2024,sadiya
+MKT002,Mile 12,Lagos,Gari,"₦5,363",Kg,2024/02/19,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,"₦2,119",Paint Rubber,23/01/2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,-1926,Kg,10/01/2024,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,,kg,30/01/2024,bello
+MKT005,Ariaria Market,Abia,Rice,42491,Basket,06/02/2024,SADIYA
+MKT001,Bodija Market,Oyo,Tomatoes,-2496,kg,06/01/2024,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Beans,"₦2,642",Basket,2024-01-18,SADIYA
+MKT004,Wuse Market,Abuja,Yam,"₦1,265",kg,2024/03/29,mama nkechi
+MKT003,Ogbete Market,Enugu,Yam,-2370,kg,09-01-2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Gari,"₦4,508",50kg,10-02-2024,bello
+MKT005,Ariaria Market,Abia,Rice,"₦41,664",Basket,2024-03-17,BELLO
+MKT005,Ariaria Market,Abia,Yam,"₦4,605",Basket,2024/01/11,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,843,basket,04/01/2024,chinedu
+MKT001,Bodija Market,Oyo,Gari,"₦3,204",50kg,2024-02-19,sadiya
+MKT002,Mile 12,Lagos,Gari,,basket,14/03/2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Gari,"₦1,388",kg,20-03-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,"₦4,117",basket,04/03/2024,BELLO
+MKT004,Wuse Market,Abuja,Tomatoes,"₦7,449",Kg,2024/02/03,bello
+MKT004,Wuse Market,Abuja,Gari,₦-951,Basket,2024-01-08,sadiya
+MKT005,Ariaria Market,Abia,Rice,49823,50kg,2024-02-04,SADIYA
+MKT005,Ariaria Market,Abia,Beans,1339,Paint Rubber,2024/02/05,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,2503,50kg,2024/02/02,mama nkechi
+MKT005,Ariaria Market,Abia,Yam,-773,kg,20-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,45387,Paint Rubber,2024-02-19,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,"₦5,223",Kg,2024/03/21,sadiya
+MKT001,Bodija Market,Oyo,Beans,"₦7,445",50kg,16/02/2024,mama nkechi
+MKT002,Mile 12,Lagos,Tomatoes,"₦7,317",basket,2024-02-09,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,-1675,kg,2024-03-17,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,5087,Basket,24/02/2024,bello
+MKT002,Mile 12,Lagos,Rice,45988,Basket,2024/02/10,mama nkechi
+MKT003,Ogbete Market,Enugu,Beans,"₦2,579",kg,13-01-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Yam,3606,kg,2024-01-26,bello
+MKT005,Ariaria Market,Abia,Tomatoes,"₦3,144",Kg,28-01-2024,bello
+MKT005,Ariaria Market,Abia,Yam,"₦5,587",Kg,2024-03-29,bello
+MKT004,Wuse Market,Abuja,Yam,-2805,basket,22-03-2024,bello
+MKT002,Mile 12,Lagos,Rice,"₦40,717",50kg,2024/02/22,alhaji musa
+MKT005,Ariaria Market,Abia,Yam,"₦5,135",kg,2024-01-02,bello
+MKT001,Bodija Market,Oyo,Rice,45588,Paint Rubber,26-03-2024,sadiya
+MKT002,Mile 12,Lagos,Rice,42156,basket,16-03-2024,bello
+MKT001,Bodija Market,Oyo,Beans,3229,Basket,01-01-2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Gari,3001,kg,2024/01/29,sadiya
+MKT002,Mile 12,Lagos,Yam,"₦3,856",kg,21-02-2024,bello
+MKT005,Ariaria Market,Abia,Beans,4813,50kg,2024-02-05,BELLO
+MKT004,Wuse Market,Abuja,Rice,46172,Paint Rubber,17/03/2024,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,-1135,basket,08-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Gari,5547,Kg,13-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,₦423,kg,2024/01/28,mama nkechi
+MKT004,Wuse Market,Abuja,Beans,,kg,2024-02-14,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,6773,kg,14-03-2024,chinedu
+MKT002,Mile 12,Lagos,Gari,₦-728,Kg,2024/02/21,sadiya
+MKT005,Ariaria Market,Abia,Rice,41531,Kg,17/03/2024,SADIYA
+MKT005,Ariaria Market,Abia,Tomatoes,-2367,Paint Rubber,08/01/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,44910,50kg,2024/03/14,sadiya
+MKT004,Wuse Market,Abuja,Rice,45348,basket,2024/03/13,CHINEDU
+MKT003,Ogbete Market,Enugu,Beans,4690,Kg,2024-03-30,chinedu
+MKT002,Mile 12,Lagos,Beans,"₦8,088",kg,2024-03-29,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,3314,50kg,2024/02/20,mama nkechi
+MKT005,Ariaria Market,Abia,Yam,"₦4,375",kg,18-02-2024,SADIYA
+MKT001,Bodija Market,Oyo,Yam,519,basket,2024-01-26,BELLO
+MKT005,Ariaria Market,Abia,Gari,1035,50kg,24/03/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,46132,Kg,2024-03-02,SADIYA
+MKT005,Ariaria Market,Abia,Gari,,basket,08-01-2024,sadiya
+MKT004,Wuse Market,Abuja,Beans,5526,basket,2024/03/06,mama nkechi
+MKT004,Wuse Market,Abuja,Gari,-929,Kg,2024-02-08,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Yam,-2185,Kg,2024-02-02,alhaji musa
+MKT002,Mile 12,Lagos,Tomatoes,4949,Paint Rubber,2024-03-20,alhaji musa
+MKT005,Ariaria Market,Abia,Rice,"₦44,000",50kg,06-03-2024,SADIYA
+MKT005,Ariaria Market,Abia,Yam,,Kg,02-01-2024,chinedu
+MKT005,Ariaria Market,Abia,Beans,8360,50kg,2024-02-03,sadiya
+MKT004,Wuse Market,Abuja,Rice,"₦44,809",Basket,14-02-2024,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,"₦3,497",Paint Rubber,05-03-2024,BELLO
+MKT005,Ariaria Market,Abia,Yam,1344,kg,2024/01/02,sadiya
+MKT003,Ogbete Market,Enugu,Beans,,basket,2024/02/15,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,-3030,Kg,2024/01/21,sadiya
+MKT005,Ariaria Market,Abia,Rice,48580,basket,05/03/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,,basket,2024-02-16,chinedu
+MKT001,Bodija Market,Oyo,Gari,3196,basket,2024/02/05,sadiya
+MKT004,Wuse Market,Abuja,Beans,5381,Paint Rubber,2024-02-18,sadiya
+MKT002,Mile 12,Lagos,Rice,47002,Paint Rubber,2024/02/21,sadiya
+MKT002,Mile 12,Lagos,Gari,"₦3,848",kg,09-03-2024,chinedu
+MKT003,Ogbete Market,Enugu,Yam,4530,Kg,2024/01/26,sadiya
+MKT004,Wuse Market,Abuja,Beans,"₦1,972",kg,26/02/2024,chinedu
+MKT004,Wuse Market,Abuja,Rice,"₦47,941",Basket,2024/03/24,bello
+MKT002,Mile 12,Lagos,Tomatoes,₦-594,50kg,03/01/2024,chinedu
+MKT003,Ogbete Market,Enugu,Beans,4590,Paint Rubber,16/01/2024,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,49911,Kg,2024/03/11,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,"₦-1,829",Paint Rubber,2024/01/31,SADIYA
+MKT004,Wuse Market,Abuja,Yam,"₦1,924",50kg,2024/02/01,CHINEDU
+MKT003,Ogbete Market,Enugu,Rice,"₦46,981",Basket,27/01/2024,SADIYA
+MKT001,Bodija Market,Oyo,Gari,"₦-1,207",basket,2024/02/02,mama nkechi
+MKT003,Ogbete Market,Enugu,Yam,3737,Paint Rubber,01-01-2024,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Yam,"₦3,293",Paint Rubber,2024-01-30,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Rice,41276,Paint Rubber,19-03-2024,bello
+MKT004,Wuse Market,Abuja,Beans,"₦7,217",Basket,02-02-2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,,kg,2024-01-18,CHINEDU
+MKT002,Mile 12,Lagos,Beans,3626,50kg,11-03-2024,bello
+MKT002,Mile 12,Lagos,Beans,₦31,kg,2024/03/29,bello
+MKT003,Ogbete Market,Enugu,Beans,1586,basket,31/03/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Tomatoes,"₦-1,438",Basket,16-02-2024,chinedu
+MKT001,Bodija Market,Oyo,Beans,3132,50kg,2024/03/28,sadiya
+MKT004,Wuse Market,Abuja,Beans,"₦6,758",Kg,06-03-2024,chinedu
+MKT004,Wuse Market,Abuja,Yam,6485,basket,06/01/2024,chinedu
+MKT003,Ogbete Market,Enugu,Gari,"₦2,938",50kg,2024-03-03,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,₦-739,kg,2024-01-24,alhaji musa
+MKT004,Wuse Market,Abuja,Rice,,Paint Rubber,08-01-2024,SADIYA
+MKT002,Mile 12,Lagos,Rice,"₦41,605",50kg,12-03-2024,CHINEDU
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦1,235",Basket,16/03/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,41063,kg,28/02/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Gari,4859,basket,18-02-2024,sadiya
+MKT005,Ariaria Market,Abia,Tomatoes,51,basket,2024-02-14,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,"₦3,816",Paint Rubber,2024/03/31,bello
+MKT005,Ariaria Market,Abia,Beans,"₦7,415",Kg,11/01/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Tomatoes,"₦3,733",50kg,2024-03-05,bello
+MKT005,Ariaria Market,Abia,Gari,"₦3,188",50kg,05/01/2024,alhaji musa
+MKT005,Ariaria Market,Abia,Gari,-3791,kg,22/03/2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Rice,"₦45,287",50kg,15/03/2024,sadiya
+MKT005,Ariaria Market,Abia,Gari,₦-968,basket,08/02/2024,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,990,basket,2024/02/10,bello
+MKT003,Ogbete Market,Enugu,Beans,-1265,Paint Rubber,2024/02/16,bello
+MKT005,Ariaria Market,Abia,Rice,42635,50kg,25-01-2024,sadiya
+MKT004,Wuse Market,Abuja,Rice,45951,Basket,2024/03/30,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,"₦4,441",Kg,2024/01/03,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Gari,"₦-3,723",Paint Rubber,17/01/2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Tomatoes,₦-364,Kg,2024/03/13,sadiya
+MKT004,Wuse Market,Abuja,Rice,"₦46,943",50kg,27-03-2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,₦-310,kg,2024-02-13,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,233,Kg,23-02-2024,bello
+MKT002,Mile 12,Lagos,Yam,"₦-1,230",50kg,08-03-2024,sadiya
+MKT002,Mile 12,Lagos,Gari,1767,basket,21/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Gari,4869,Paint Rubber,2024-03-04,CHINEDU
+MKT002,Mile 12,Lagos,Rice,41120,Basket,2024/03/20,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Beans,743,kg,20-02-2024,mama nkechi
+MKT002,Mile 12,Lagos,Rice,46028,Basket,2024/02/25,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Tomatoes,5363,kg,22-03-2024,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,-129,kg,06/03/2024,sadiya
+MKT003,Ogbete Market,Enugu,Tomatoes,4398,50kg,19/01/2024,bello
+MKT004,Wuse Market,Abuja,Gari,1979,kg,2024-03-31,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,2966,50kg,06/02/2024,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Yam,4583,Paint Rubber,2024/03/17,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Gari,"₦-2,973",50kg,06-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Gari,₦76,Kg,23/01/2024,chinedu
+MKT003,Ogbete Market,Enugu,Gari,2224,Paint Rubber,2024-01-02,chinedu
+MKT003,Ogbete Market,Enugu,Yam,₦597,Kg,13-02-2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Tomatoes,₦917,Paint Rubber,2024/03/26,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,"₦-1,946",kg,2024/02/11,bello
+MKT003,Ogbete Market,Enugu,Rice,"₦47,112",Kg,16/03/2024,mama nkechi
+MKT005,Ariaria Market,Abia,Rice,47970,Paint Rubber,2024/02/27,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,"₦5,377",Basket,21-02-2024,sadiya
+MKT001,Bodija Market,Oyo,Gari,"₦2,983",kg,2024-03-29,BELLO
+MKT004,Wuse Market,Abuja,Beans,₦490,Paint Rubber,2024-03-13,sadiya
+MKT003,Ogbete Market,Enugu,Yam,1180,Kg,21-03-2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Rice,45588,50kg,2024/01/08,chinedu
+MKT001,Bodija Market,Oyo,Beans,"₦2,743",basket,15/02/2024,chinedu
+MKT002,Mile 12,Lagos,Rice,"₦46,704",Paint Rubber,2024/02/18,mama nkechi
+MKT001,Bodija Market,Oyo,Gari,-1318,kg,10-01-2024,BELLO
+MKT001,Bodija Market,Oyo,Yam,1324,kg,2024-03-28,chinedu
+MKT005,Ariaria Market,Abia,Beans,₦-732,kg,2024/03/10,bello
+MKT004,Wuse Market,Abuja,Rice,"₦45,083",Kg,18/01/2024,bello
+MKT001,Bodija Market,Oyo,Yam,"₦2,816",Kg,20/01/2024,chinedu
+MKT005,Ariaria Market,Abia,Gari,1073,basket,2024/03/31,chinedu
+MKT002,Mile 12,Lagos,Rice,40054,Basket,2024-01-12,sadiya
+MKT005,Ariaria Market,Abia,Beans,₦-668,Paint Rubber,08-02-2024,SADIYA
+MKT004,Wuse Market,Abuja,Gari,4719,basket,2024/02/10,SADIYA
+MKT003,Ogbete Market,Enugu,Rice,47776,Basket,24/03/2024,chinedu
+MKT004,Wuse Market,Abuja,Gari,1407,basket,2024/02/26,mama nkechi
+MKT002,Mile 12,Lagos,Beans,"₦3,047",Kg,2024/01/19,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,₦-678,Basket,26/03/2024,BELLO
+MKT001,Bodija Market,Oyo,Rice,"₦42,198",Paint Rubber,2024/01/05,chinedu
+MKT002,Mile 12,Lagos,Yam,-1892,Kg,2024/01/31,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,3535,Paint Rubber,28-03-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦44,491",Basket,2024-02-24,mama nkechi
+MKT001,Bodija Market,Oyo,Yam,3883,basket,2024/01/13,sadiya
+MKT004,Wuse Market,Abuja,Rice,"₦42,679",Basket,2024/03/21,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Rice,43186,Kg,02-02-2024,chinedu
+MKT002,Mile 12,Lagos,Yam,"₦-1,896",kg,2024/03/13,bello
+MKT001,Bodija Market,Oyo,Tomatoes,-449,kg,30-01-2024,bello
+MKT001,Bodija Market,Oyo,Gari,,50kg,20-01-2024,chinedu
+MKT005,Ariaria Market,Abia,Yam,"₦2,275",basket,2024-02-11,sadiya
+MKT002,Mile 12,Lagos,Beans,"₦5,641",Kg,2024-01-05,CHINEDU
+MKT003,Ogbete Market,Enugu,Rice,42074,kg,24-02-2024,bello
+MKT002,Mile 12,Lagos,Gari,2336,basket,2024-01-14,bello
+MKT004,Wuse Market,Abuja,Gari,-772,Basket,06-01-2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Yam,₦-133,basket,2024-03-19,SADIYA
+MKT002,Mile 12,Lagos,Rice,"₦45,490",Kg,2024/01/14,CHINEDU
+MKT003,Ogbete Market,Enugu,Beans,6179,Paint Rubber,25-03-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Yam,-1867,Kg,2024/01/04,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,"₦46,212",basket,11-01-2024,sadiya
+MKT002,Mile 12,Lagos,Yam,-1438,Paint Rubber,2024/03/03,bello
+MKT002,Mile 12,Lagos,Tomatoes,3622,basket,29/03/2024,BELLO
+MKT004,Wuse Market,Abuja,Yam,₦-857,basket,2024/03/23,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦3,685",Kg,2024/02/04,CHINEDU
+MKT005,Ariaria Market,Abia,Gari,₦403,50kg,09/03/2024,sadiya
+MKT002,Mile 12,Lagos,Yam,-878,50kg,2024-02-13,sadiya
+MKT005,Ariaria Market,Abia,Rice,"₦45,136",Paint Rubber,20/01/2024,CHINEDU
+MKT005,Ariaria Market,Abia,Beans,-159,Basket,09-01-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,-750,kg,18-01-2024,chinedu
+MKT005,Ariaria Market,Abia,Gari,"₦2,809",Paint Rubber,27/02/2024,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,"₦4,244",50kg,10-01-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,6092,Kg,13-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Rice,"₦44,430",50kg,2024-02-01,chinedu
+MKT005,Ariaria Market,Abia,Beans,21,basket,2024/03/14,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,"₦42,419",basket,2024-01-15,sadiya
+MKT005,Ariaria Market,Abia,Tomatoes,"₦2,892",Kg,2024/03/04,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,,Basket,24/03/2024,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,₦483,basket,27-03-2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,46640,basket,14/03/2024,sadiya
+MKT004,Wuse Market,Abuja,Gari,"₦4,884",kg,2024-01-23,CHINEDU
+MKT003,Ogbete Market,Enugu,Yam,₦41,Basket,06-02-2024,CHINEDU
+MKT005,Ariaria Market,Abia,Yam,,Basket,2024-03-02,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Tomatoes,₦-468,50kg,21/02/2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,"₦43,511",basket,2024/02/06,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Yam,4990,Basket,2024-03-13,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Gari,"₦-1,750",Kg,2024-02-05,mama nkechi
+MKT001,Bodija Market,Oyo,Gari,"₦-3,655",Basket,22/01/2024,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Yam,,50kg,15/02/2024,BELLO
+MKT001,Bodija Market,Oyo,Tomatoes,"₦5,556",Kg,05/02/2024,sadiya
+MKT004,Wuse Market,Abuja,Rice,49130,Basket,2024/03/06,bello
+MKT001,Bodija Market,Oyo,Rice,48202,Paint Rubber,07-02-2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,4190,Kg,10-02-2024,SADIYA
+MKT003,Ogbete Market,Enugu,Gari,₦-236,50kg,2024/02/02,chinedu
+MKT003,Ogbete Market,Enugu,Rice,40936,kg,2024-01-24,sadiya
+MKT003,Ogbete Market,Enugu,Yam,"₦-1,404",kg,15/03/2024,alhaji musa
+MKT002,Mile 12,Lagos,Beans,₦413,Kg,2024/03/28,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦6,541",Kg,2024-01-03,sadiya
+MKT003,Ogbete Market,Enugu,Beans,3376,Basket,28-02-2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,₦-567,basket,05/03/2024,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦6,679",50kg,17/03/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,"₦8,252",Kg,25-03-2024,bello
+MKT001,Bodija Market,Oyo,Tomatoes,,Paint Rubber,02/01/2024,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,"₦2,795",50kg,22-02-2024,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Beans,1520,Kg,2024/03/07,SADIYA
+MKT002,Mile 12,Lagos,Yam,6316,Kg,2024-02-04,sadiya
+MKT004,Wuse Market,Abuja,Rice,41591,Paint Rubber,25-03-2024,sadiya
+MKT002,Mile 12,Lagos,Yam,-1888,kg,2024-03-04,sadiya
+MKT002,Mile 12,Lagos,Gari,"₦-2,096",basket,2024-01-07,sadiya
+MKT002,Mile 12,Lagos,Gari,₦486,Kg,20-02-2024,bello
+MKT002,Mile 12,Lagos,Yam,"₦-2,644",Kg,09/02/2024,alhaji musa
+MKT004,Wuse Market,Abuja,Yam,"₦4,361",Basket,2024/03/31,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,-97,50kg,2024-03-02,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Yam,"₦2,143",basket,14/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,4509,Basket,2024/02/08,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,"₦45,445",50kg,02/01/2024,bello
+MKT003,Ogbete Market,Enugu,Beans,-65,Kg,2024-01-13,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Beans,"₦5,559",Paint Rubber,25/01/2024,chinedu
+MKT004,Wuse Market,Abuja,Yam,-2160,Paint Rubber,2024-02-19,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦5,713",Basket,2024-01-26,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,"₦1,599",Basket,11-02-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦2,543",50kg,04-01-2024,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Tomatoes,5313,Paint Rubber,2024-03-14,BELLO
+MKT001,Bodija Market,Oyo,Beans,8145,50kg,20/01/2024,BELLO
+MKT004,Wuse Market,Abuja,Rice,40038,Kg,2024-02-27,CHINEDU
+MKT003,Ogbete Market,Enugu,Gari,-1977,Paint Rubber,27/02/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,3158,kg,2024/01/06,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Gari,"₦-2,812",Kg,2024-03-22,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,41682,Kg,20-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,"₦40,933",Basket,15/01/2024,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,48984,Basket,04/02/2024,bello
+MKT001,Bodija Market,Oyo,Beans,"₦2,110",Paint Rubber,12/03/2024,bello
+MKT005,Ariaria Market,Abia,Tomatoes,₦880,Basket,07/01/2024,sadiya
+MKT003,Ogbete Market,Enugu,Yam,"₦3,142",50kg,22/01/2024,SADIYA
+MKT002,Mile 12,Lagos,Beans,2973,basket,2024-03-06,alhaji musa
+MKT005,Ariaria Market,Abia,Gari,"₦-1,925",basket,2024-03-10,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,1909,50kg,02/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,"₦43,788",50kg,2024/02/09,sadiya
+MKT003,Ogbete Market,Enugu,Rice,41389,Paint Rubber,2024/03/28,chinedu
+MKT003,Ogbete Market,Enugu,Rice,48920,Paint Rubber,2024/01/14,SADIYA
+MKT004,Wuse Market,Abuja,Beans,"₦-1,287",basket,29/03/2024,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Tomatoes,₦617,Kg,2024-01-05,bello
+MKT005,Ariaria Market,Abia,Tomatoes,₦220,50kg,26-03-2024,mama nkechi
+MKT002,Mile 12,Lagos,Rice,40001,Basket,09/03/2024,SADIYA
+MKT005,Ariaria Market,Abia,Tomatoes,,Paint Rubber,31-03-2024,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,4514,Paint Rubber,18/03/2024,bello
+MKT001,Bodija Market,Oyo,Beans,"₦-1,395",kg,02-01-2024,sadiya
+MKT001,Bodija Market,Oyo,Yam,2882,50kg,03/02/2024,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,7131,kg,2024/02/20,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,-411,50kg,28-01-2024,chinedu
+MKT003,Ogbete Market,Enugu,Beans,-1042,kg,2024/01/09,bello
+MKT005,Ariaria Market,Abia,Rice,"₦48,601",basket,2024/02/05,SADIYA
+MKT003,Ogbete Market,Enugu,Rice,"₦44,109",50kg,05-01-2024,CHINEDU
+MKT005,Ariaria Market,Abia,Beans,₦60,kg,04/03/2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,927,Kg,03/01/2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,"₦-2,194",Kg,2024/02/07,bello
+MKT002,Mile 12,Lagos,Beans,3144,Paint Rubber,2024-02-04,chinedu
+MKT005,Ariaria Market,Abia,Yam,"₦5,746",basket,19/02/2024,BELLO
+MKT002,Mile 12,Lagos,Yam,"₦-2,848",Basket,2024-02-11,bello
+MKT001,Bodija Market,Oyo,Rice,40956,Basket,19-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,"₦43,453",basket,2024-01-03,chinedu
+MKT005,Ariaria Market,Abia,Beans,"₦3,203",Paint Rubber,04-03-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Rice,49633,Paint Rubber,2024-01-12,mama nkechi
+MKT004,Wuse Market,Abuja,Beans,"₦7,961",kg,02/03/2024,bello
+MKT001,Bodija Market,Oyo,Gari,-842,Basket,18-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Yam,5931,Basket,2024-01-10,bello
+MKT005,Ariaria Market,Abia,Yam,1448,basket,2024/01/05,alhaji musa
+MKT002,Mile 12,Lagos,Tomatoes,2099,Basket,24/01/2024,BELLO
+MKT002,Mile 12,Lagos,Rice,43216,Paint Rubber,25-01-2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Gari,,Basket,2024/02/26,sadiya
+MKT005,Ariaria Market,Abia,Tomatoes,2055,Paint Rubber,18/02/2024,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,₦966,Paint Rubber,2024/02/11,sadiya
+MKT003,Ogbete Market,Enugu,Tomatoes,3224,Kg,2024-02-02,bello
+MKT001,Bodija Market,Oyo,Rice,45895,kg,2024-02-25,MAMA NKECHI
+MKT002,Mile 12,Lagos,Yam,2899,Paint Rubber,03-02-2024,sadiya
+MKT001,Bodija Market,Oyo,Gari,₦-232,kg,23-02-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦41,925",kg,11/01/2024,SADIYA
+MKT002,Mile 12,Lagos,Beans,-532,Basket,2024/02/11,BELLO
+MKT004,Wuse Market,Abuja,Tomatoes,"₦3,762",50kg,04-02-2024,CHINEDU
+MKT003,Ogbete Market,Enugu,Rice,49200,Paint Rubber,15/02/2024,mama nkechi
+MKT001,Bodija Market,Oyo,Rice,"₦42,289",50kg,2024-01-06,bello
+MKT001,Bodija Market,Oyo,Yam,4273,kg,23-02-2024,CHINEDU
+MKT003,Ogbete Market,Enugu,Beans,5070,Paint Rubber,04/01/2024,SADIYA
+MKT001,Bodija Market,Oyo,Rice,"₦46,527",kg,14/01/2024,bello
+MKT005,Ariaria Market,Abia,Gari,-2909,Kg,02/01/2024,BELLO
+MKT002,Mile 12,Lagos,Yam,"₦6,791",kg,2024-01-26,mama nkechi
+MKT001,Bodija Market,Oyo,Gari,-2602,Kg,06-03-2024,chinedu
+MKT004,Wuse Market,Abuja,Yam,,basket,2024-01-09,SADIYA
+MKT004,Wuse Market,Abuja,Rice,47705,Basket,04-01-2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Rice,44440,Kg,2024/03/10,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Gari,-676,Paint Rubber,21/03/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Tomatoes,"₦1,533",basket,27/02/2024,sadiya
+MKT005,Ariaria Market,Abia,Yam,4648,Basket,2024/03/01,BELLO
+MKT003,Ogbete Market,Enugu,Beans,1730,50kg,2024-02-01,chinedu
+MKT004,Wuse Market,Abuja,Gari,-2133,kg,2024-01-08,bello
+MKT001,Bodija Market,Oyo,Yam,-2200,basket,22-01-2024,mama nkechi
+MKT002,Mile 12,Lagos,Beans,"₦6,689",Basket,01-01-2024,bello
+MKT001,Bodija Market,Oyo,Yam,"₦1,606",Kg,28-01-2024,alhaji musa
+MKT005,Ariaria Market,Abia,Gari,"₦-2,360",Kg,2024-02-29,SADIYA
+MKT003,Ogbete Market,Enugu,Beans,5510,50kg,2024-03-23,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,6718,Kg,2024-01-27,sadiya
+MKT001,Bodija Market,Oyo,Rice,"₦41,177",Basket,2024/02/20,mama nkechi
+MKT002,Mile 12,Lagos,Rice,48234,Kg,2024-01-25,bello
+MKT001,Bodija Market,Oyo,Gari,,Basket,19-03-2024,SADIYA
+MKT001,Bodija Market,Oyo,Beans,"₦7,706",Paint Rubber,17-03-2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,"₦48,906",basket,19-03-2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,"₦44,882",Basket,2024-01-09,SADIYA
+MKT005,Ariaria Market,Abia,Beans,2110,Paint Rubber,18-01-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Tomatoes,-2395,Kg,26/02/2024,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Yam,3587,kg,29/01/2024,BELLO
+MKT002,Mile 12,Lagos,Beans,"₦5,552",50kg,20/01/2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Beans,7136,Paint Rubber,12-03-2024,bello
+MKT004,Wuse Market,Abuja,Gari,"₦-2,002",Basket,23/01/2024,chinedu
+MKT003,Ogbete Market,Enugu,Gari,2484,basket,28-03-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,-703,basket,20/03/2024,bello
+MKT005,Ariaria Market,Abia,Yam,6652,Basket,2024/03/09,sadiya
+MKT005,Ariaria Market,Abia,Gari,-2484,basket,2024-02-03,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,43273,Paint Rubber,2024/01/06,MAMA NKECHI
+MKT002,Mile 12,Lagos,Tomatoes,"₦7,154",basket,2024/03/14,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,-1251,Paint Rubber,21/03/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Tomatoes,352,Kg,2024-02-08,mama nkechi
+MKT002,Mile 12,Lagos,Yam,5641,kg,27/02/2024,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Yam,"₦1,816",Kg,06/02/2024,chinedu
+MKT005,Ariaria Market,Abia,Gari,5969,Basket,14/02/2024,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,-151,basket,2024/03/21,sadiya
+MKT003,Ogbete Market,Enugu,Yam,"₦6,182",basket,27/02/2024,sadiya
+MKT003,Ogbete Market,Enugu,Rice,"₦47,843",Paint Rubber,08-01-2024,SADIYA
+MKT003,Ogbete Market,Enugu,Gari,"₦-1,328",Basket,01-02-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦45,051",Basket,2024/03/21,sadiya
+MKT002,Mile 12,Lagos,Rice,47397,kg,2024/03/25,BELLO
+MKT004,Wuse Market,Abuja,Beans,"₦5,926",basket,2024-02-22,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦6,924",kg,2024/02/16,chinedu
+MKT002,Mile 12,Lagos,Yam,-2539,kg,29-02-2024,CHINEDU
+MKT005,Ariaria Market,Abia,Tomatoes,874,basket,03-03-2024,BELLO
+MKT002,Mile 12,Lagos,Gari,"₦-3,168",Basket,19-03-2024,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,1219,kg,2024/02/12,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Yam,"₦1,243",kg,11-02-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Gari,4755,kg,2024-03-22,CHINEDU
+MKT003,Ogbete Market,Enugu,Tomatoes,4049,Paint Rubber,09/02/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Beans,"₦8,215",50kg,2024-02-02,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦3,757",Kg,2024-02-05,alhaji musa
+MKT004,Wuse Market,Abuja,Rice,"₦42,496",Paint Rubber,2024-03-29,alhaji musa
+MKT002,Mile 12,Lagos,Rice,"₦43,267",Basket,2024-03-03,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,₦637,Paint Rubber,23/03/2024,sadiya
+MKT005,Ariaria Market,Abia,Rice,40560,Basket,2024/02/12,alhaji musa
+MKT002,Mile 12,Lagos,Tomatoes,5129,Kg,2024/03/09,mama nkechi
+MKT001,Bodija Market,Oyo,Rice,"₦48,264",Basket,2024/03/11,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Rice,42978,Paint Rubber,2024/03/29,sadiya
+MKT005,Ariaria Market,Abia,Beans,"₦4,156",kg,2024/03/22,sadiya
+MKT002,Mile 12,Lagos,Yam,5086,Basket,03-03-2024,chinedu
+MKT005,Ariaria Market,Abia,Rice,"₦42,530",Basket,2024-03-05,bello
+MKT002,Mile 12,Lagos,Gari,,basket,02/02/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Tomatoes,4840,50kg,2024/03/30,sadiya
+MKT003,Ogbete Market,Enugu,Gari,"₦4,934",Basket,2024/02/22,MAMA NKECHI
+MKT002,Mile 12,Lagos,Beans,1219,basket,2024-02-14,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,4110,basket,29-02-2024,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Yam,,Basket,2024/03/20,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,"₦2,675",50kg,11-03-2024,CHINEDU
+MKT001,Bodija Market,Oyo,Yam,"₦2,248",basket,2024-03-13,SADIYA
+MKT003,Ogbete Market,Enugu,Yam,,kg,2024-03-01,alhaji musa
+MKT004,Wuse Market,Abuja,Rice,"₦41,638",kg,16/02/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Yam,92,50kg,2024-03-15,bello
+MKT003,Ogbete Market,Enugu,Gari,"₦5,900",50kg,09/01/2024,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Yam,"₦-1,651",50kg,24-03-2024,bello
+MKT005,Ariaria Market,Abia,Tomatoes,"₦1,981",basket,21/03/2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Beans,"₦5,293",Paint Rubber,2024/01/08,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,46356,Kg,2024/01/09,SADIYA
+MKT002,Mile 12,Lagos,Yam,,basket,2024/02/26,bello
+MKT003,Ogbete Market,Enugu,Beans,"₦3,092",basket,29-02-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,4761,50kg,2024/02/24,CHINEDU
+MKT002,Mile 12,Lagos,Beans,₦-907,Kg,24-03-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Yam,293,50kg,2024/02/29,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Yam,-3184,kg,2024-02-18,sadiya
+MKT003,Ogbete Market,Enugu,Tomatoes,1131,Basket,2024/03/15,SADIYA
+MKT003,Ogbete Market,Enugu,Rice,48123,Kg,12-03-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Beans,-725,Kg,12-01-2024,chinedu
+MKT004,Wuse Market,Abuja,Rice,47099,kg,05-03-2024,BELLO
+MKT003,Ogbete Market,Enugu,Yam,3883,Paint Rubber,2024-01-24,CHINEDU
+MKT003,Ogbete Market,Enugu,Yam,,basket,2024/02/24,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Tomatoes,,Basket,2024/02/05,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,-2135,Kg,26/01/2024,mama nkechi
+MKT001,Bodija Market,Oyo,Rice,"₦48,754",basket,13/02/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,"₦45,439",50kg,24-02-2024,bello
+MKT004,Wuse Market,Abuja,Yam,4304,Paint Rubber,29-02-2024,bello
+MKT003,Ogbete Market,Enugu,Gari,₦-791,basket,03-01-2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Tomatoes,4479,Paint Rubber,2024-02-03,bello
+MKT005,Ariaria Market,Abia,Gari,₦485,kg,2024/01/01,CHINEDU
+MKT001,Bodija Market,Oyo,Rice,45978,50kg,2024-02-03,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,2483,50kg,21/01/2024,CHINEDU
+MKT001,Bodija Market,Oyo,Beans,"₦7,627",Basket,2024/02/20,chinedu
+MKT005,Ariaria Market,Abia,Beans,3441,Basket,05/01/2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,961,kg,10-02-2024,alhaji musa
+MKT002,Mile 12,Lagos,Gari,"₦-1,640",50kg,27-03-2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,-2462,Paint Rubber,2024-03-14,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Gari,3365,50kg,22/01/2024,chinedu
+MKT002,Mile 12,Lagos,Beans,₦-854,Basket,2024/02/26,chinedu
+MKT004,Wuse Market,Abuja,Yam,5653,Kg,27/03/2024,CHINEDU
+MKT005,Ariaria Market,Abia,Yam,337,Basket,21-02-2024,CHINEDU
+MKT004,Wuse Market,Abuja,Beans,8178,basket,30/03/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,43754,Basket,2024/01/21,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,-847,50kg,2024-01-29,chinedu
+MKT001,Bodija Market,Oyo,Beans,"₦7,996",50kg,02-03-2024,chinedu
+MKT001,Bodija Market,Oyo,Rice,43727,Kg,2024/03/23,sadiya
+MKT003,Ogbete Market,Enugu,Gari,"₦2,219",Paint Rubber,21/02/2024,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,20,kg,2024/01/23,alhaji musa
+MKT004,Wuse Market,Abuja,Rice,"₦49,114",Paint Rubber,2024-02-07,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,,Kg,04-02-2024,chinedu
+MKT005,Ariaria Market,Abia,Beans,"₦1,583",50kg,2024-01-29,bello
+MKT003,Ogbete Market,Enugu,Rice,47544,Kg,2024-02-02,mama nkechi
+MKT002,Mile 12,Lagos,Yam,1989,50kg,14-02-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,8096,Kg,2024-01-21,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Rice,"₦47,321",50kg,18/02/2024,chinedu
+MKT003,Ogbete Market,Enugu,Rice,"₦45,891",Basket,09-03-2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,63,basket,12-02-2024,CHINEDU
+MKT003,Ogbete Market,Enugu,Rice,46841,kg,2024/01/11,alhaji musa
+MKT002,Mile 12,Lagos,Rice,40161,basket,08-01-2024,CHINEDU
+MKT002,Mile 12,Lagos,Rice,,50kg,2024-03-12,CHINEDU
+MKT002,Mile 12,Lagos,Tomatoes,6824,50kg,2024-01-28,BELLO
+MKT004,Wuse Market,Abuja,Beans,₦-633,Kg,2024-02-21,CHINEDU
+MKT002,Mile 12,Lagos,Yam,"₦3,056",basket,26/01/2024,CHINEDU
+MKT005,Ariaria Market,Abia,Tomatoes,310,Paint Rubber,26-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,"₦45,237",Paint Rubber,20/01/2024,bello
+MKT004,Wuse Market,Abuja,Tomatoes,-490,50kg,28-01-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Beans,1971,kg,2024-01-06,bello
+MKT005,Ariaria Market,Abia,Tomatoes,2568,Paint Rubber,26/03/2024,chinedu
+MKT001,Bodija Market,Oyo,Gari,"₦-1,043",basket,13-03-2024,chinedu
+MKT005,Ariaria Market,Abia,Beans,₦-51,50kg,10/01/2024,bello
+MKT002,Mile 12,Lagos,Tomatoes,5499,50kg,2024/03/01,chinedu
+MKT005,Ariaria Market,Abia,Yam,3204,Paint Rubber,2024/02/28,SADIYA
+MKT003,Ogbete Market,Enugu,Yam,"₦4,262",50kg,20/03/2024,sadiya
+MKT001,Bodija Market,Oyo,Yam,"₦-2,515",Kg,2024-03-03,sadiya
+MKT001,Bodija Market,Oyo,Rice,,basket,2024-03-09,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Yam,"₦6,357",Basket,31/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,"₦40,631",Basket,2024-02-27,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦5,396",Paint Rubber,03/01/2024,bello
+MKT002,Mile 12,Lagos,Yam,,Basket,02/02/2024,chinedu
+MKT002,Mile 12,Lagos,Yam,-2326,kg,05-01-2024,chinedu
+MKT002,Mile 12,Lagos,Rice,,Kg,2024-01-05,bello
+MKT002,Mile 12,Lagos,Beans,-329,Kg,23-02-2024,chinedu
+MKT001,Bodija Market,Oyo,Gari,-1261,Basket,2024/01/13,chinedu
+MKT002,Mile 12,Lagos,Gari,2364,Kg,2024-02-21,SADIYA
+MKT004,Wuse Market,Abuja,Beans,438,basket,23/02/2024,chinedu
+MKT002,Mile 12,Lagos,Beans,"₦5,088",kg,2024-01-20,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Tomatoes,4133,Kg,2024/03/08,sadiya
+MKT002,Mile 12,Lagos,Rice,49879,basket,2024/02/17,sadiya
+MKT001,Bodija Market,Oyo,Gari,2766,Kg,2024/03/20,SADIYA
+MKT005,Ariaria Market,Abia,Beans,"₦2,148",Basket,20/02/2024,bello
+MKT001,Bodija Market,Oyo,Gari,-663,Basket,19/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,"₦43,750",Basket,2024-03-27,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,₦866,Basket,15/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Beans,3555,Kg,2024-02-16,bello
+MKT003,Ogbete Market,Enugu,Yam,6083,basket,25/02/2024,BELLO
+MKT001,Bodija Market,Oyo,Yam,"₦-1,451",Paint Rubber,2024-02-04,sadiya
+MKT002,Mile 12,Lagos,Rice,46823,basket,11/02/2024,BELLO
+MKT002,Mile 12,Lagos,Gari,2079,Basket,2024/01/17,sadiya
+MKT004,Wuse Market,Abuja,Gari,"₦5,403",kg,2024/01/30,chinedu
+MKT003,Ogbete Market,Enugu,Yam,-774,Paint Rubber,08/03/2024,bello
+MKT003,Ogbete Market,Enugu,Rice,"₦42,551",basket,01/03/2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,3916,Kg,2024/01/27,sadiya
+MKT002,Mile 12,Lagos,Beans,3154,basket,20-03-2024,sadiya
+MKT002,Mile 12,Lagos,Beans,5471,50kg,2024-02-08,bello
+MKT001,Bodija Market,Oyo,Rice,46530,basket,2024-02-05,BELLO
+MKT001,Bodija Market,Oyo,Beans,"₦5,129",basket,2024-01-05,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Rice,40612,Paint Rubber,2024/03/25,bello
+MKT001,Bodija Market,Oyo,Rice,"₦47,133",basket,08/01/2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦4,683",kg,09/03/2024,SADIYA
+MKT001,Bodija Market,Oyo,Rice,"₦40,669",Paint Rubber,21-02-2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,"₦5,986",basket,28-02-2024,bello
+MKT003,Ogbete Market,Enugu,Beans,"₦2,364",kg,13-03-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,-1274,50kg,2024-02-02,bello
+MKT002,Mile 12,Lagos,Gari,"₦-3,155",Basket,2024/01/20,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,₦490,basket,2024-01-14,BELLO
+MKT001,Bodija Market,Oyo,Yam,6146,Basket,13/02/2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Rice,"₦46,299",Paint Rubber,20/02/2024,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Beans,215,kg,29-03-2024,CHINEDU
+MKT005,Ariaria Market,Abia,Beans,-402,Kg,28-02-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Tomatoes,4480,Basket,08/01/2024,BELLO
+MKT002,Mile 12,Lagos,Tomatoes,"₦6,415",basket,2024/03/06,alhaji musa
+MKT002,Mile 12,Lagos,Beans,"₦-1,345",basket,2024/03/19,bello
+MKT002,Mile 12,Lagos,Rice,"₦46,144",basket,2024-01-27,sadiya
+MKT005,Ariaria Market,Abia,Gari,"₦2,859",basket,21-02-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Beans,,Basket,2024-02-01,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,4379,kg,2024/01/31,mama nkechi
+MKT004,Wuse Market,Abuja,Beans,₦287,kg,2024-03-19,mama nkechi
+MKT005,Ariaria Market,Abia,Tomatoes,,Paint Rubber,24/03/2024,BELLO
+MKT005,Ariaria Market,Abia,Beans,₦-123,Basket,02-03-2024,bello
+MKT004,Wuse Market,Abuja,Beans,"₦7,531",Basket,2024/02/25,mama nkechi
+MKT004,Wuse Market,Abuja,Gari,"₦1,826",kg,2024/01/28,mama nkechi
+MKT003,Ogbete Market,Enugu,Rice,"₦44,249",Paint Rubber,2024-03-19,mama nkechi
+MKT003,Ogbete Market,Enugu,Beans,6289,Paint Rubber,2024-01-29,bello
+MKT003,Ogbete Market,Enugu,Yam,1875,Kg,2024-01-10,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦41,531",Paint Rubber,10-03-2024,CHINEDU
+MKT004,Wuse Market,Abuja,Tomatoes,"₦-1,040",Basket,25/03/2024,BELLO
+MKT001,Bodija Market,Oyo,Gari,"₦3,016",basket,04/01/2024,bello
+MKT004,Wuse Market,Abuja,Beans,262,Basket,27/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Tomatoes,5759,Paint Rubber,2024-01-12,alhaji musa
+MKT001,Bodija Market,Oyo,Gari,"₦1,917",Paint Rubber,2024/03/21,BELLO
+MKT005,Ariaria Market,Abia,Gari,"₦-1,276",basket,26/01/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,-1722,Kg,2024-03-31,bello
+MKT004,Wuse Market,Abuja,Rice,"₦41,348",basket,16/01/2024,sadiya
+MKT002,Mile 12,Lagos,Beans,5656,basket,12-01-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,,Kg,10/02/2024,bello
+MKT003,Ogbete Market,Enugu,Beans,"₦5,968",kg,2024-03-18,chinedu
+MKT004,Wuse Market,Abuja,Rice,46317,50kg,29/02/2024,alhaji musa
+MKT002,Mile 12,Lagos,Beans,5248,Kg,06/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,43740,Paint Rubber,2024-01-01,SADIYA
+MKT004,Wuse Market,Abuja,Tomatoes,"₦-1,729",Basket,2024-01-06,sadiya
+MKT004,Wuse Market,Abuja,Yam,"₦-3,007",Basket,20-02-2024,chinedu
+MKT002,Mile 12,Lagos,Yam,6102,Kg,03/03/2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Yam,"₦3,516",kg,2024/03/11,BELLO
+MKT001,Bodija Market,Oyo,Rice,"₦43,451",50kg,25-02-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Rice,"₦48,333",Basket,14-01-2024,SADIYA
+MKT005,Ariaria Market,Abia,Rice,46796,Kg,27/01/2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Gari,,Paint Rubber,2024/03/31,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Tomatoes,"₦2,197",kg,2024-03-21,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Gari,,kg,2024-01-01,SADIYA
+MKT003,Ogbete Market,Enugu,Yam,2263,kg,2024/01/06,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Rice,42866,Basket,27/03/2024,CHINEDU
+MKT002,Mile 12,Lagos,Yam,2623,basket,2024-02-15,CHINEDU
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦1,129",Basket,2024/01/17,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,3632,basket,18-01-2024,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Gari,2446,Kg,17-01-2024,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,,kg,2024/03/07,CHINEDU
+MKT005,Ariaria Market,Abia,Gari,,50kg,2024-03-28,chinedu
+MKT002,Mile 12,Lagos,Tomatoes,1533,Basket,25-03-2024,mama nkechi
+MKT002,Mile 12,Lagos,Beans,274,Basket,2024-02-15,CHINEDU
+MKT002,Mile 12,Lagos,Tomatoes,5422,Kg,2024-01-31,sadiya
+MKT005,Ariaria Market,Abia,Gari,400,50kg,20-02-2024,bello
+MKT003,Ogbete Market,Enugu,Rice,49101,Paint Rubber,23/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,₦-730,basket,2024-02-02,sadiya
+MKT001,Bodija Market,Oyo,Gari,"₦-3,414",kg,2024-01-14,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Beans,₦966,basket,2024/03/27,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,1676,50kg,2024/03/05,sadiya
+MKT003,Ogbete Market,Enugu,Beans,"₦5,946",Basket,22-02-2024,sadiya
+MKT003,Ogbete Market,Enugu,Rice,41130,kg,2024-03-17,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Gari,220,Kg,26/02/2024,MAMA NKECHI
+MKT005,Ariaria Market,Abia,Tomatoes,-677,50kg,09-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,634,Basket,2024/03/17,BELLO
+MKT005,Ariaria Market,Abia,Tomatoes,-1359,Paint Rubber,21/03/2024,sadiya
+MKT004,Wuse Market,Abuja,Yam,3383,Basket,12-01-2024,CHINEDU
+MKT002,Mile 12,Lagos,Yam,"₦1,728",50kg,09-01-2024,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,"₦47,611",Basket,2024-02-18,chinedu
+MKT002,Mile 12,Lagos,Gari,-1971,50kg,24/03/2024,bello
+MKT004,Wuse Market,Abuja,Yam,"₦6,455",Basket,15-02-2024,alhaji musa
+MKT005,Ariaria Market,Abia,Beans,₦400,50kg,03/03/2024,sadiya
+MKT004,Wuse Market,Abuja,Beans,"₦4,718",kg,2024-01-28,CHINEDU
+MKT001,Bodija Market,Oyo,Gari,₦658,kg,2024-01-21,SADIYA
+MKT002,Mile 12,Lagos,Yam,"₦3,068",Kg,02/01/2024,bello
+MKT001,Bodija Market,Oyo,Yam,"₦-1,028",Kg,04/02/2024,bello
+MKT005,Ariaria Market,Abia,Tomatoes,4289,Paint Rubber,31/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Rice,"₦44,154",50kg,30-01-2024,chinedu
+MKT002,Mile 12,Lagos,Rice,47151,Paint Rubber,2024/02/08,sadiya
+MKT003,Ogbete Market,Enugu,Tomatoes,-568,Paint Rubber,19/01/2024,alhaji musa
+MKT005,Ariaria Market,Abia,Gari,-2854,kg,2024/02/27,bello
+MKT001,Bodija Market,Oyo,Yam,,basket,05/02/2024,mama nkechi
+MKT005,Ariaria Market,Abia,Rice,49748,basket,29/03/2024,mama nkechi
+MKT002,Mile 12,Lagos,Yam,-1573,Paint Rubber,2024-02-02,BELLO
+MKT005,Ariaria Market,Abia,Beans,5152,Kg,31-01-2024,bello
+MKT005,Ariaria Market,Abia,Beans,5405,basket,09-01-2024,CHINEDU
+MKT001,Bodija Market,Oyo,Beans,7348,Basket,24/01/2024,SADIYA
+MKT001,Bodija Market,Oyo,Rice,43162,50kg,2024/01/03,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,,Basket,2024/02/06,chinedu
+MKT004,Wuse Market,Abuja,Yam,6502,Paint Rubber,2024-01-22,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Beans,,basket,2024-01-10,alhaji musa
+MKT002,Mile 12,Lagos,Tomatoes,-1618,basket,14-02-2024,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,"₦4,666",Kg,2024-01-23,chinedu
+MKT001,Bodija Market,Oyo,Yam,"₦4,925",basket,25-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Rice,42808,50kg,2024/03/30,bello
+MKT003,Ogbete Market,Enugu,Rice,43802,Kg,2024/03/07,mama nkechi
+MKT005,Ariaria Market,Abia,Tomatoes,₦319,50kg,2024-01-12,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,₦-637,basket,2024-02-14,chinedu
+MKT002,Mile 12,Lagos,Beans,"₦2,435",Kg,10-01-2024,SADIYA
+MKT003,Ogbete Market,Enugu,Beans,5480,Kg,2024/01/30,mama nkechi
+MKT003,Ogbete Market,Enugu,Gari,-1033,Basket,2024/03/08,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Gari,₦106,Basket,30/03/2024,CHINEDU
+MKT004,Wuse Market,Abuja,Beans,₦499,basket,2024-02-07,sadiya
+MKT005,Ariaria Market,Abia,Yam,"₦6,301",basket,25/01/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦42,841",50kg,27/01/2024,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Yam,-2112,50kg,01-02-2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Tomatoes,1736,kg,2024-03-07,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,5248,50kg,21-03-2024,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Beans,,basket,07/02/2024,chinedu
+MKT004,Wuse Market,Abuja,Rice,,50kg,2024/02/24,chinedu
+MKT005,Ariaria Market,Abia,Yam,455,kg,03-01-2024,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,,Basket,20/01/2024,SADIYA
+MKT001,Bodija Market,Oyo,Yam,"₦5,349",Paint Rubber,2024-03-10,sadiya
+MKT004,Wuse Market,Abuja,Gari,"₦4,113",50kg,29/01/2024,BELLO
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦-1,003",Paint Rubber,2024/03/24,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Beans,"₦1,451",Paint Rubber,19-02-2024,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,"₦43,701",Kg,2024/03/03,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Tomatoes,3289,basket,2024-01-17,alhaji musa
+MKT002,Mile 12,Lagos,Beans,"₦5,980",kg,03/01/2024,alhaji musa
+MKT004,Wuse Market,Abuja,Yam,3487,kg,19-02-2024,bello
+MKT005,Ariaria Market,Abia,Beans,8279,Kg,2024-02-10,alhaji musa
+MKT002,Mile 12,Lagos,Beans,"₦7,703",50kg,25-02-2024,chinedu
+MKT001,Bodija Market,Oyo,Rice,42307,Kg,2024/02/22,BELLO
+MKT001,Bodija Market,Oyo,Rice,"₦46,046",basket,16-03-2024,bello
+MKT001,Bodija Market,Oyo,Yam,"₦3,816",basket,22/03/2024,BELLO
+MKT003,Ogbete Market,Enugu,Tomatoes,4661,Paint Rubber,2024-03-27,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,,Kg,2024-02-25,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,3556,50kg,12/02/2024,MAMA NKECHI
+MKT002,Mile 12,Lagos,Rice,"₦48,859",Paint Rubber,03/03/2024,BELLO
+MKT003,Ogbete Market,Enugu,Beans,4293,kg,22-03-2024,alhaji musa
+MKT002,Mile 12,Lagos,Gari,"₦5,498",Paint Rubber,27/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,"₦4,862",Kg,03/01/2024,chinedu
+MKT005,Ariaria Market,Abia,Gari,,Kg,29/01/2024,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Gari,-3566,Kg,23/02/2024,bello
+MKT005,Ariaria Market,Abia,Gari,2104,basket,13/01/2024,CHINEDU
+MKT002,Mile 12,Lagos,Gari,3322,kg,2024-01-18,SADIYA
+MKT005,Ariaria Market,Abia,Tomatoes,3121,50kg,19-03-2024,bello
+MKT001,Bodija Market,Oyo,Gari,-426,50kg,22/01/2024,sadiya
+MKT001,Bodija Market,Oyo,Beans,,basket,23-02-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Tomatoes,₦-243,basket,12/02/2024,bello
+MKT004,Wuse Market,Abuja,Beans,2924,Basket,29-01-2024,sadiya
+MKT002,Mile 12,Lagos,Yam,,Basket,27/02/2024,sadiya
+MKT003,Ogbete Market,Enugu,Beans,7467,Paint Rubber,08/02/2024,alhaji musa
+MKT004,Wuse Market,Abuja,Yam,5931,basket,2024-01-25,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Gari,"₦4,747",kg,2024/01/07,alhaji musa
+MKT005,Ariaria Market,Abia,Beans,2713,Kg,2024/02/27,BELLO
+MKT004,Wuse Market,Abuja,Beans,2248,Basket,21/01/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,"₦44,493",basket,2024-01-22,sadiya
+MKT003,Ogbete Market,Enugu,Gari,"₦-1,736",basket,2024-03-17,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,,kg,02-02-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,₦123,Paint Rubber,2024/01/04,BELLO
+MKT004,Wuse Market,Abuja,Rice,42745,Kg,03-03-2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Yam,₦-978,Paint Rubber,27/01/2024,BELLO
+MKT003,Ogbete Market,Enugu,Rice,"₦44,063",Basket,21/01/2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,"₦1,066",50kg,08/02/2024,BELLO
+MKT004,Wuse Market,Abuja,Beans,5016,kg,15/02/2024,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,2052,kg,2024/01/04,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,6335,Kg,2024/03/11,mama nkechi
+MKT005,Ariaria Market,Abia,Yam,2145,basket,13-03-2024,sadiya
+MKT004,Wuse Market,Abuja,Gari,5633,basket,2024/02/27,CHINEDU
+MKT005,Ariaria Market,Abia,Gari,5371,basket,09-02-2024,BELLO
+MKT004,Wuse Market,Abuja,Gari,-3568,kg,2024/01/25,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,"₦-2,475",Basket,2024/01/20,CHINEDU
+MKT005,Ariaria Market,Abia,Rice,48652,Basket,16/02/2024,sadiya
+MKT004,Wuse Market,Abuja,Gari,-317,Basket,2024-02-11,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,40215,Basket,2024/01/26,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Tomatoes,,Paint Rubber,13/02/2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Yam,"₦4,563",Basket,2024/01/19,BELLO
+MKT004,Wuse Market,Abuja,Beans,₦446,Kg,15/02/2024,chinedu
+MKT001,Bodija Market,Oyo,Beans,6057,Kg,21/03/2024,sadiya
+MKT001,Bodija Market,Oyo,Rice,41932,Paint Rubber,15-01-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,,basket,05-03-2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,3974,50kg,24/02/2024,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Rice,49797,Basket,2024/03/09,chinedu
+MKT001,Bodija Market,Oyo,Yam,-457,Basket,22/01/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Yam,2058,kg,2024/02/16,SADIYA
+MKT001,Bodija Market,Oyo,Beans,7561,50kg,16/01/2024,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Rice,"₦40,882",kg,30/01/2024,alhaji musa
+MKT005,Ariaria Market,Abia,Tomatoes,5936,Paint Rubber,2024-03-03,sadiya
+MKT002,Mile 12,Lagos,Yam,-791,Kg,2024-03-08,CHINEDU
+MKT005,Ariaria Market,Abia,Gari,3176,Paint Rubber,2024/03/09,sadiya
+MKT003,Ogbete Market,Enugu,Yam,2773,Kg,15-02-2024,bello
+MKT001,Bodija Market,Oyo,Beans,2119,kg,06/01/2024,BELLO
+MKT002,Mile 12,Lagos,Yam,"₦4,948",Basket,2024/03/14,sadiya
+MKT003,Ogbete Market,Enugu,Beans,"₦7,635",basket,2024-02-28,CHINEDU
+MKT001,Bodija Market,Oyo,Tomatoes,"₦5,118",Paint Rubber,2024-03-25,alhaji musa
+MKT003,Ogbete Market,Enugu,Rice,49653,Kg,25-01-2024,sadiya
+MKT003,Ogbete Market,Enugu,Yam,₦543,Paint Rubber,26-01-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Yam,-749,kg,2024/01/17,bello
+MKT001,Bodija Market,Oyo,Tomatoes,1174,kg,2024-03-17,bello
+MKT001,Bodija Market,Oyo,Rice,"₦44,956",kg,2024/03/01,chinedu
+MKT005,Ariaria Market,Abia,Yam,-1039,basket,2024-02-28,chinedu
+MKT004,Wuse Market,Abuja,Yam,₦586,Basket,09-03-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,"₦-1,428",Basket,29-02-2024,sadiya
+MKT005,Ariaria Market,Abia,Yam,-329,basket,2024-01-10,mama nkechi
+MKT004,Wuse Market,Abuja,Gari,-2668,basket,30-01-2024,chinedu
+MKT003,Ogbete Market,Enugu,Yam,4612,basket,19/02/2024,chinedu
+MKT004,Wuse Market,Abuja,Yam,"₦-1,778",Paint Rubber,2024/01/17,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Rice,49583,kg,2024-03-28,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Beans,,50kg,27/03/2024,sadiya
+MKT001,Bodija Market,Oyo,Gari,"₦-1,332",Basket,2024/03/20,sadiya
+MKT001,Bodija Market,Oyo,Gari,-193,Kg,2024/02/21,sadiya
+MKT003,Ogbete Market,Enugu,Gari,,Paint Rubber,2024/03/22,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Beans,-920,50kg,2024-01-06,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,,Paint Rubber,20/03/2024,mama nkechi
+MKT003,Ogbete Market,Enugu,Gari,"₦6,065",Kg,28-02-2024,SADIYA
+MKT003,Ogbete Market,Enugu,Gari,₦507,50kg,2024/02/04,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,609,Basket,2024/03/04,chinedu
+MKT005,Ariaria Market,Abia,Gari,"₦2,228",kg,2024/01/15,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,"₦2,880",Kg,2024-03-15,BELLO
+MKT001,Bodija Market,Oyo,Beans,3091,50kg,13-02-2024,mama nkechi
+MKT002,Mile 12,Lagos,Beans,3641,50kg,29/03/2024,bello
+MKT005,Ariaria Market,Abia,Beans,,50kg,16/01/2024,CHINEDU
+MKT001,Bodija Market,Oyo,Gari,4912,Kg,21-03-2024,sadiya
+MKT003,Ogbete Market,Enugu,Tomatoes,₦332,Paint Rubber,07/01/2024,alhaji musa
+MKT002,Mile 12,Lagos,Yam,-400,Kg,2024-02-15,chinedu
+MKT005,Ariaria Market,Abia,Gari,3561,basket,18/01/2024,chinedu
+MKT001,Bodija Market,Oyo,Yam,₦-128,50kg,2024/03/12,chinedu
+MKT005,Ariaria Market,Abia,Gari,,Basket,17/02/2024,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Gari,"₦-1,680",Basket,09-01-2024,sadiya
+MKT004,Wuse Market,Abuja,Rice,41538,Paint Rubber,2024/01/02,chinedu
+MKT002,Mile 12,Lagos,Beans,₦730,basket,2024-01-06,chinedu
+MKT002,Mile 12,Lagos,Gari,-629,Kg,2024/02/21,mama nkechi
+MKT002,Mile 12,Lagos,Tomatoes,"₦2,446",kg,06/01/2024,mama nkechi
+MKT005,Ariaria Market,Abia,Yam,"₦-1,907",50kg,2024/03/07,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,472,kg,2024/01/22,alhaji musa
+MKT003,Ogbete Market,Enugu,Yam,₦-960,Paint Rubber,26-01-2024,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Rice,41855,Paint Rubber,22-02-2024,CHINEDU
+MKT001,Bodija Market,Oyo,Tomatoes,-1019,kg,05-02-2024,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,7229,Paint Rubber,2024-03-18,chinedu
+MKT002,Mile 12,Lagos,Tomatoes,777,Basket,17/01/2024,bello
+MKT004,Wuse Market,Abuja,Tomatoes,"₦2,190",kg,26/02/2024,SADIYA
+MKT002,Mile 12,Lagos,Beans,"₦6,660",basket,06-03-2024,alhaji musa
+MKT001,Bodija Market,Oyo,Yam,"₦-3,061",Basket,2024/02/07,chinedu
+MKT005,Ariaria Market,Abia,Yam,"₦3,789",kg,21-02-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Beans,-1451,Paint Rubber,22-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,"₦7,165",basket,23-03-2024,chinedu
+MKT001,Bodija Market,Oyo,Beans,"₦2,265",kg,17/03/2024,alhaji musa
+MKT003,Ogbete Market,Enugu,Beans,"₦6,819",Basket,2024-01-26,ALHAJI MUSA
+MKT003,Ogbete Market,Enugu,Rice,46481,50kg,04/02/2024,SADIYA
+MKT001,Bodija Market,Oyo,Tomatoes,"₦3,193",50kg,02-03-2024,bello
+MKT003,Ogbete Market,Enugu,Yam,"₦6,333",basket,2024/01/05,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,₦2,kg,18-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,"₦3,741",Kg,02-02-2024,BELLO
+MKT001,Bodija Market,Oyo,Rice,46309,50kg,2024-01-26,BELLO
+MKT001,Bodija Market,Oyo,Yam,"₦-1,682",50kg,2024-01-22,CHINEDU
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦1,054",kg,2024-03-30,SADIYA
+MKT005,Ariaria Market,Abia,Tomatoes,₦-758,Kg,2024/03/24,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,₦995,50kg,18/03/2024,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Tomatoes,₦142,50kg,2024-01-29,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦2,257",basket,20-02-2024,chinedu
+MKT001,Bodija Market,Oyo,Beans,"₦7,301",50kg,22/02/2024,sadiya
+MKT003,Ogbete Market,Enugu,Gari,₦596,Kg,19-02-2024,chinedu
+MKT005,Ariaria Market,Abia,Rice,41920,Basket,2024/03/09,bello
+MKT004,Wuse Market,Abuja,Gari,3271,Kg,2024/02/26,SADIYA
+MKT005,Ariaria Market,Abia,Yam,"₦-2,831",Kg,2024/01/15,mama nkechi
+MKT001,Bodija Market,Oyo,Beans,₦-136,Basket,2024-02-21,BELLO
+MKT003,Ogbete Market,Enugu,Gari,₦-124,50kg,2024/01/09,chinedu
+MKT004,Wuse Market,Abuja,Beans,-641,basket,03-02-2024,CHINEDU
+MKT005,Ariaria Market,Abia,Gari,"₦4,760",50kg,08/03/2024,sadiya
+MKT002,Mile 12,Lagos,Rice,"₦45,119",basket,24-02-2024,BELLO
+MKT002,Mile 12,Lagos,Rice,"₦45,039",Paint Rubber,18-02-2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,1401,Basket,15-02-2024,CHINEDU
+MKT001,Bodija Market,Oyo,Beans,8019,Paint Rubber,14-01-2024,alhaji musa
+MKT005,Ariaria Market,Abia,Tomatoes,2783,basket,05-02-2024,ALHAJI MUSA
+MKT004,Wuse Market,Abuja,Gari,"₦-1,807",50kg,03/02/2024,alhaji musa
+MKT005,Ariaria Market,Abia,Tomatoes,"₦-1,810",50kg,2024/02/24,BELLO
+MKT001,Bodija Market,Oyo,Rice,"₦47,786",kg,20/03/2024,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦7,409",kg,2024-02-11,alhaji musa
+MKT003,Ogbete Market,Enugu,Yam,₦-383,basket,29/02/2024,bello
+MKT002,Mile 12,Lagos,Beans,541,Kg,02/02/2024,BELLO
+MKT004,Wuse Market,Abuja,Rice,,50kg,01-02-2024,chinedu
+MKT003,Ogbete Market,Enugu,Tomatoes,5329,Paint Rubber,2024-03-18,SADIYA
+MKT003,Ogbete Market,Enugu,Yam,,basket,2024-01-23,bello
+MKT004,Wuse Market,Abuja,Tomatoes,"₦5,503",Kg,30-03-2024,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,"₦5,812",Basket,25/01/2024,BELLO
+MKT004,Wuse Market,Abuja,Tomatoes,-1856,Basket,2024/02/02,bello
+MKT005,Ariaria Market,Abia,Beans,"₦1,168",Kg,2024/02/07,chinedu
+MKT005,Ariaria Market,Abia,Beans,"₦-1,305",Basket,2024/02/18,chinedu
+MKT005,Ariaria Market,Abia,Yam,"₦5,268",Paint Rubber,19/02/2024,bello
+MKT001,Bodija Market,Oyo,Tomatoes,91,kg,2024-03-07,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,-300,Paint Rubber,2024/01/08,alhaji musa
+MKT003,Ogbete Market,Enugu,Gari,"₦5,628",basket,16-03-2024,mama nkechi
+MKT001,Bodija Market,Oyo,Beans,5706,50kg,06/03/2024,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,46219,kg,15/01/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,₦273,Kg,2024/02/04,bello
+MKT002,Mile 12,Lagos,Gari,"₦3,015",Paint Rubber,2024-03-11,CHINEDU
+MKT003,Ogbete Market,Enugu,Beans,4020,50kg,2024-01-19,mama nkechi
+MKT005,Ariaria Market,Abia,Rice,"₦44,757",Paint Rubber,16-01-2024,bello
+MKT001,Bodija Market,Oyo,Gari,"₦3,281",basket,02/01/2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,48306,basket,2024/03/19,sadiya
+MKT002,Mile 12,Lagos,Beans,₦794,kg,2024/01/29,sadiya
+MKT001,Bodija Market,Oyo,Yam,253,kg,2024/01/15,sadiya
+MKT005,Ariaria Market,Abia,Gari,-440,Basket,27/02/2024,alhaji musa
+MKT002,Mile 12,Lagos,Gari,"₦2,518",50kg,10-03-2024,alhaji musa
+MKT002,Mile 12,Lagos,Beans,2736,basket,04/01/2024,sadiya
+MKT002,Mile 12,Lagos,Gari,"₦-3,596",Basket,2024/01/11,alhaji musa
+MKT005,Ariaria Market,Abia,Yam,1190,Basket,2024-01-25,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Yam,6340,Basket,31/01/2024,mama nkechi
+MKT001,Bodija Market,Oyo,Beans,7512,Basket,2024-01-10,alhaji musa
+MKT002,Mile 12,Lagos,Tomatoes,5942,Basket,25-01-2024,bello
+MKT001,Bodija Market,Oyo,Rice,,Kg,2024-02-29,sadiya
+MKT001,Bodija Market,Oyo,Gari,"₦-1,121",Basket,2024/01/02,bello
+MKT003,Ogbete Market,Enugu,Beans,8079,kg,04/03/2024,sadiya
+MKT005,Ariaria Market,Abia,Beans,"₦2,934",Basket,2024/02/13,bello
+MKT004,Wuse Market,Abuja,Tomatoes,,Paint Rubber,2024-01-07,bello
+MKT005,Ariaria Market,Abia,Beans,,Kg,2024/03/01,SADIYA
+MKT003,Ogbete Market,Enugu,Tomatoes,,Kg,2024/01/15,chinedu
+MKT004,Wuse Market,Abuja,Gari,-1037,kg,05-03-2024,sadiya
+MKT003,Ogbete Market,Enugu,Yam,1580,50kg,2024-01-26,mama nkechi
+MKT001,Bodija Market,Oyo,Tomatoes,-1969,Basket,20/02/2024,bello
+MKT001,Bodija Market,Oyo,Rice,"₦40,002",Paint Rubber,2024-01-02,CHINEDU
+MKT004,Wuse Market,Abuja,Beans,"₦4,126",Kg,21-02-2024,chinedu
+MKT005,Ariaria Market,Abia,Beans,,Kg,2024/02/15,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Rice,"₦49,277",basket,17-02-2024,chinedu
+MKT004,Wuse Market,Abuja,Tomatoes,-995,Paint Rubber,2024-03-08,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Beans,3755,Paint Rubber,2024/01/19,sadiya
+MKT005,Ariaria Market,Abia,Beans,1354,50kg,2024/02/27,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Tomatoes,2830,kg,2024-03-12,BELLO
+MKT005,Ariaria Market,Abia,Yam,"₦6,280",kg,2024-01-26,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Gari,-2810,Kg,30-01-2024,mama nkechi
+MKT002,Mile 12,Lagos,Rice,"₦45,876",Paint Rubber,2024-01-21,bello
+MKT001,Bodija Market,Oyo,Rice,"₦43,340",kg,01-01-2024,chinedu
+MKT004,Wuse Market,Abuja,Beans,"₦4,444",basket,06-02-2024,mama nkechi
+MKT004,Wuse Market,Abuja,Yam,3659,kg,10/03/2024,alhaji musa
+MKT002,Mile 12,Lagos,Yam,₦601,50kg,2024/02/28,alhaji musa
+MKT001,Bodija Market,Oyo,Rice,"₦47,485",50kg,04/01/2024,sadiya
+MKT001,Bodija Market,Oyo,Tomatoes,1834,basket,17/01/2024,BELLO
+MKT002,Mile 12,Lagos,Gari,2311,Kg,14/03/2024,CHINEDU
+MKT003,Ogbete Market,Enugu,Yam,₦-285,kg,2024/02/22,bello
+MKT005,Ariaria Market,Abia,Rice,41230,Paint Rubber,23/03/2024,BELLO
+MKT002,Mile 12,Lagos,Rice,49555,50kg,2024/01/18,SADIYA
+MKT001,Bodija Market,Oyo,Rice,"₦48,960",Paint Rubber,2024-01-12,alhaji musa
+MKT001,Bodija Market,Oyo,Beans,7299,Paint Rubber,2024/03/30,CHINEDU
+MKT002,Mile 12,Lagos,Beans,₦-811,basket,2024-03-03,BELLO
+MKT003,Ogbete Market,Enugu,Gari,4292,basket,12/01/2024,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Rice,42378,50kg,08/02/2024,bello
+MKT002,Mile 12,Lagos,Yam,6667,kg,2024/03/25,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,"₦-1,026",50kg,2024-01-25,CHINEDU
+MKT004,Wuse Market,Abuja,Gari,2596,Paint Rubber,2024-01-18,alhaji musa
+MKT005,Ariaria Market,Abia,Gari,-836,Kg,25/02/2024,chinedu
+MKT003,Ogbete Market,Enugu,Yam,"₦3,444",50kg,2024-01-06,sadiya
+MKT002,Mile 12,Lagos,Rice,"₦48,305",basket,04/01/2024,SADIYA
+MKT002,Mile 12,Lagos,Beans,2339,Kg,04-01-2024,bello
+MKT003,Ogbete Market,Enugu,Tomatoes,-2433,Kg,17/01/2024,bello
+MKT004,Wuse Market,Abuja,Beans,₦-928,kg,2024/01/02,alhaji musa
+MKT003,Ogbete Market,Enugu,Tomatoes,"₦3,539",kg,30/01/2024,sadiya
+MKT003,Ogbete Market,Enugu,Beans,1762,basket,07/02/2024,bello
+MKT003,Ogbete Market,Enugu,Beans,3732,Kg,2024-03-27,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,44383,Kg,2024-01-15,sadiya
+MKT004,Wuse Market,Abuja,Beans,"₦5,531",Paint Rubber,2024/01/16,chinedu
+MKT002,Mile 12,Lagos,Rice,41448,kg,31-03-2024,SADIYA
+MKT004,Wuse Market,Abuja,Tomatoes,-1583,Paint Rubber,10-01-2024,chinedu
+MKT001,Bodija Market,Oyo,Gari,"₦-2,122",Kg,05/03/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Rice,,kg,09/02/2024,bello
+MKT005,Ariaria Market,Abia,Beans,"₦7,066",basket,2024/01/08,chinedu
+MKT002,Mile 12,Lagos,Rice,44627,50kg,2024/02/27,chinedu
+MKT001,Bodija Market,Oyo,Tomatoes,2713,Basket,11/02/2024,chinedu
+MKT003,Ogbete Market,Enugu,Rice,,50kg,2024/01/07,chinedu
+MKT003,Ogbete Market,Enugu,Rice,46055,50kg,2024-01-30,CHINEDU
+MKT002,Mile 12,Lagos,Rice,47129,Basket,13/01/2024,sadiya
+MKT003,Ogbete Market,Enugu,Rice,"₦49,133",Paint Rubber,28-02-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Gari,"₦-2,538",50kg,2024/02/02,chinedu
+MKT002,Mile 12,Lagos,Yam,127,Paint Rubber,20/02/2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Yam,-1943,Basket,2024/01/28,sadiya
+MKT005,Ariaria Market,Abia,Rice,"₦41,230",kg,2024-01-31,chinedu
+MKT005,Ariaria Market,Abia,Rice,45750,Kg,2024/03/06,sadiya
+MKT001,Bodija Market,Oyo,Rice,"₦49,116",kg,2024-01-15,SADIYA
+MKT003,Ogbete Market,Enugu,Rice,"₦42,411",kg,24-03-2024,BELLO
+MKT003,Ogbete Market,Enugu,Gari,"₦-1,025",basket,2024-03-18,CHINEDU
+MKT001,Bodija Market,Oyo,Tomatoes,"₦1,470",Paint Rubber,2024/02/18,SADIYA
+MKT002,Mile 12,Lagos,Rice,44331,Kg,28/01/2024,bello
+MKT005,Ariaria Market,Abia,Yam,"₦5,895",kg,2024/02/26,bello
+MKT001,Bodija Market,Oyo,Rice,"₦47,587",kg,29/03/2024,CHINEDU
+MKT002,Mile 12,Lagos,Gari,1657,basket,04/02/2024,SADIYA
+MKT005,Ariaria Market,Abia,Rice,47542,basket,31/03/2024,CHINEDU
+MKT004,Wuse Market,Abuja,Rice,"₦41,289",Kg,2024-02-22,mama nkechi
+MKT001,Bodija Market,Oyo,Beans,1683,50kg,2024/03/06,mama nkechi
+MKT002,Mile 12,Lagos,Beans,1282,50kg,2024-01-05,CHINEDU
+MKT005,Ariaria Market,Abia,Rice,"₦46,327",kg,25/03/2024,bello
+MKT001,Bodija Market,Oyo,Rice,40529,kg,19-01-2024,sadiya
+MKT004,Wuse Market,Abuja,Tomatoes,,kg,2024/03/31,ALHAJI MUSA
+MKT005,Ariaria Market,Abia,Gari,3892,50kg,12/03/2024,sadiya
+MKT002,Mile 12,Lagos,Beans,5624,Basket,29/01/2024,sadiya
+MKT002,Mile 12,Lagos,Gari,₦-691,Basket,04-03-2024,sadiya
+MKT001,Bodija Market,Oyo,Tomatoes,4685,Basket,2024/03/24,chinedu
+MKT001,Bodija Market,Oyo,Beans,1035,Basket,13/02/2024,CHINEDU
+MKT001,Bodija Market,Oyo,Gari,1274,basket,2024-02-22,sadiya
+MKT001,Bodija Market,Oyo,Yam,1205,kg,15/03/2024,chinedu
+MKT004,Wuse Market,Abuja,Gari,"₦-2,105",kg,2024/01/31,sadiya
+MKT003,Ogbete Market,Enugu,Gari,"₦-3,748",Paint Rubber,2024/01/18,CHINEDU
+MKT001,Bodija Market,Oyo,Yam,-415,Paint Rubber,07-03-2024,sadiya
+MKT001,Bodija Market,Oyo,Tomatoes,₦-206,kg,23-01-2024,chinedu
+MKT005,Ariaria Market,Abia,Tomatoes,"₦1,982",Basket,28/01/2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,"₦40,348",basket,2024-01-28,chinedu
+MKT004,Wuse Market,Abuja,Yam,"₦1,620",kg,2024/01/07,CHINEDU
+MKT004,Wuse Market,Abuja,Gari,820,Paint Rubber,2024/02/29,ALHAJI MUSA
+MKT002,Mile 12,Lagos,Tomatoes,₦47,kg,2024-03-26,sadiya
+MKT002,Mile 12,Lagos,Tomatoes,"₦-1,590",Basket,2024/02/21,BELLO
+MKT004,Wuse Market,Abuja,Yam,,Paint Rubber,09/02/2024,BELLO
+MKT001,Bodija Market,Oyo,Gari,6191,Paint Rubber,2024/02/25,alhaji musa
+MKT004,Wuse Market,Abuja,Gari,5912,Kg,12-01-2024,mama nkechi
+MKT005,Ariaria Market,Abia,Tomatoes,-1779,Paint Rubber,08-01-2024,sadiya
+MKT004,Wuse Market,Abuja,Rice,40497,kg,04-02-2024,MAMA NKECHI
+MKT003,Ogbete Market,Enugu,Beans,147,Basket,2024/01/13,mama nkechi
+MKT002,Mile 12,Lagos,Beans,"₦1,261",basket,12/03/2024,sadiya
+MKT002,Mile 12,Lagos,Yam,"₦3,869",Basket,2024-01-08,chinedu
+MKT004,Wuse Market,Abuja,Rice,43072,basket,14/02/2024,CHINEDU
+MKT005,Ariaria Market,Abia,Tomatoes,,Kg,2024-02-12,alhaji musa
+MKT005,Ariaria Market,Abia,Rice,"₦47,117",basket,2024/03/15,sadiya
+MKT002,Mile 12,Lagos,Gari,"₦5,736",Kg,26/01/2024,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Beans,"₦6,350",kg,2024/02/22,alhaji musa
+MKT002,Mile 12,Lagos,Beans,8440,50kg,22-02-2024,alhaji musa
+MKT004,Wuse Market,Abuja,Tomatoes,"₦5,600",kg,2024/01/17,MAMA NKECHI
+MKT001,Bodija Market,Oyo,Yam,"₦1,122",Basket,2024/01/13,alhaji musa
+MKT004,Wuse Market,Abuja,Yam,6465,Basket,2024/01/31,BELLO
+MKT001,Bodija Market,Oyo,Beans,"₦6,964",basket,2024/02/12,ALHAJI MUSA
+MKT001,Bodija Market,Oyo,Yam,6565,Kg,17/03/2024,mama nkechi
+MKT004,Wuse Market,Abuja,Tomatoes,3820,Paint Rubber,2024/03/12,MAMA NKECHI
+MKT004,Wuse Market,Abuja,Tomatoes,₦859,Basket,2024/03/14,chinedu
+MKT002,Mile 12,Lagos,Tomatoes,"₦3,726",50kg,15/02/2024,SADIYA
+MKT001,Bodija Market,Oyo,Gari,"₦1,091",Kg,10-03-2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,"₦46,603",basket,29/02/2024,alhaji musa
+MKT002,Mile 12,Lagos,Rice,"₦49,114",Paint Rubber,2024-02-01,sadiya
+MKT005,Ariaria Market,Abia,Yam,"₦3,415",basket,2024-02-08,bello
