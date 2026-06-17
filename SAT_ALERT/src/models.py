@@ -82,18 +82,19 @@ def build_terrain_unet(input_shape=(256, 256, 4)):
     return model
 
 
-def build_fusion_model(img_shape=(256, 256, 4), ts_shape=(24, 3)):
+def build_fusion_model(mask_shape=(256, 256, 1), ts_shape=(24, 3)):
     """
     Multi-Modal Fusion Architecture.
-    Combines a CNN branch for imagery and an LSTM branch for time-series (weather/sensors).
+    Combines a CNN branch for terrain flood masks and an LSTM branch for time-series (weather/sensors).
     Outputs a single risk score (0 to 1).
     """
-    # 1. Image Branch (CNN)
-    img_input = layers.Input(shape=img_shape, name="optical_input")
-    x = layers.Conv2D(32, (3, 3), activation='relu')(img_input)
+    # 1. Mask Branch (CNN)
+    mask_input = layers.Input(shape=mask_shape, name="mask_input")
+    x = layers.Conv2D(16, (3, 3), activation='relu', padding='same')(mask_input)
     x = layers.MaxPooling2D((2, 2))(x)
-    x = layers.Conv2D(64, (3, 3), activation='relu')(x)
+    x = layers.Conv2D(32, (3, 3), activation='relu', padding='same')(x)
     x = layers.MaxPooling2D((2, 2))(x)
+    x = layers.Conv2D(64, (3, 3), activation='relu', padding='same')(x)
     x = layers.GlobalAveragePooling2D()(x) # Flatten spatial dimensions
     
     # 2. Time-Series Branch (LSTM)
@@ -108,6 +109,6 @@ def build_fusion_model(img_shape=(256, 256, 4), ts_shape=(24, 3)):
     # Output Layer (Risk Score)
     risk_output = layers.Dense(1, activation='sigmoid', name="risk_score")(z)
     
-    model = models.Model(inputs=[img_input, ts_input], outputs=risk_output, name="MultiModal_Fusion")
+    model = models.Model(inputs=[mask_input, ts_input], outputs=risk_output, name="MultiModal_Fusion")
     model.compile(optimizer='adam', loss='mse', metrics=['mae'])
     return model

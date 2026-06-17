@@ -3,8 +3,12 @@ import requests
 import time
 
 # --- COPERNICUS CREDENTIALS ---
-USERNAME = 'okorocaleb25@gmail.com'
-PASSWORD = 'Sequence5910@'
+USERNAME = '...'
+PASSWORD = '...'
+if not USERNAME or not PASSWORD:
+    raise EnvironmentError(
+        'COPERNICUS_USERNAME and COPERNICUS_PASSWORD must be set in the environment.'
+    )
 
 # Define target directories
 RAW_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'raw_geotiff')
@@ -12,8 +16,8 @@ os.makedirs(RAW_DIR, exist_ok=True)
 
 # Define our tactical operational zones
 REGIONS = {
-    #'lokoja_confluence_2022': 'POLYGON((6.5 7.5, 7.0 7.5, 7.0 8.0, 6.5 8.0, 6.5 7.5))',
-    #'borno_basin_2022': 'POLYGON((12.5 11.5, 13.5 11.5, 13.5 12.5, 12.5 12.5, 12.5 11.5))',
+    'lokoja_confluence_2022': 'POLYGON((6.5 7.5, 7.0 7.5, 7.0 8.0, 6.5 8.0, 6.5 7.5))',
+    'borno_basin_2022': 'POLYGON((12.5 11.5, 13.5 11.5, 13.5 12.5, 12.5 12.5, 12.5 11.5))',
     'bayelsa_coast_2022': 'POLYGON((5.5 4.2, 6.5 4.2, 6.5 5.2, 5.5 5.2, 5.5 4.2))'
 }
 

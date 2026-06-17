@@ -2,7 +2,7 @@ import os
 import numpy as np
 import rasterio
 import tensorflow as tf
-from src.models import build_terrain_unet, build_fusion_model
+from src.models import build_terrain_unet, build_fusion_model, custom_iou, bce_dice_loss
 from src.data_pipeline import process_and_split_dataset, build_tf_dataset
 
 # Define directories for saving our deep learning models
@@ -10,7 +10,25 @@ BASE_DIR = os.path.dirname(__file__)
 MODEL_DIR = os.path.join(BASE_DIR, 'models')
 RAW_DIR = os.path.join(BASE_DIR, 'data', 'raw_geotiff')
 WEATHER_DIR = os.path.join(BASE_DIR, 'data', 'processed_weather')
+TERRAIN_MODEL_PATH = os.path.join(MODEL_DIR, 'terrain_unet_best.keras')
 os.makedirs(MODEL_DIR, exist_ok=True)
+
+
+def load_stage1_model():
+    """Load the Stage 1 U-Net if available so Stage 2 can consume real Stage 1 predictions."""
+    if not os.path.exists(TERRAIN_MODEL_PATH):
+        print("WARNING: Terrain U-Net weights not found. Fusion training will fall back to raw mask patches.")
+        return None
+
+    try:
+        return tf.keras.models.load_model(
+            TERRAIN_MODEL_PATH,
+            custom_objects={'custom_iou': custom_iou, 'bce_dice_loss': bce_dice_loss}
+        )
+    except Exception as exc:
+        print(f"WARNING: Failed to load Stage 1 model at {TERRAIN_MODEL_PATH}: {exc}")
+        return None
+
 
 def train_terrain_model():
     """
@@ -68,59 +86,67 @@ def train_terrain_model():
 
 def extract_fusion_data(regions_list):
     """
-    Extracts aligned optical image patches, weather time-series tensors,
+    Extracts aligned terrain mask patches, weather time-series tensors,
     and continuous flood risk labels for each region.
     """
-    all_imgs, all_ts, all_labels = [], [], []
+    all_masks, all_ts, all_labels = [], [], []
+
+    terrain_model = load_stage1_model()
 
     for region in regions_list:
-        # Build paths for optical data, flood mask, and weather time-series
-        opt_path = os.path.join(RAW_DIR, f"{region}_opt.tif")
         mask_path = os.path.join(RAW_DIR, f"{region}_mask.tif")
+        opt_path = os.path.join(RAW_DIR, f"{region}_opt.tif")
         ts_path = os.path.join(WEATHER_DIR, f"{region}_ts.npy")
 
         # Skip regions missing any required input file
-        if not (os.path.exists(opt_path) and os.path.exists(ts_path) and os.path.exists(mask_path)):
+        if not os.path.exists(ts_path):
             continue
-
-        # Load optical GeoTIFF and convert from (C, H, W) to (H, W, C)
-        with rasterio.open(opt_path) as src:
-            opt_data = src.read()
-            opt_data = np.moveaxis(opt_data, 0, -1)
-
-        # Load single-channel flood mask
-        with rasterio.open(mask_path) as src:
-            mask_data = src.read(1)
 
         # Load preprocessed weather time-series for this region
         ts_data = np.load(ts_path)
 
-        # Create 256x256 patches from the full scene
-        h, w, _ = opt_data.shape
+        # Attempt to use the trained Stage 1 U-Net for mask generation
+        use_stage1_prediction = terrain_model is not None and os.path.exists(opt_path)
+        if use_stage1_prediction:
+            with rasterio.open(opt_path) as src:
+                opt_data = src.read([1, 2, 3, 4]).transpose(1, 2, 0).astype(np.float32)
+                opt_data = np.clip(opt_data / 10000.0, 0.0, 1.0)
+
+            mask_data = None
+        elif os.path.exists(mask_path):
+            with rasterio.open(mask_path) as src:
+                mask_data = src.read(1)
+        else:
+            continue
+
         patch_size = 256
+        if use_stage1_prediction:
+            h, w, _ = opt_data.shape
+        else:
+            h, w = mask_data.shape
+
         for i in range(0, h - patch_size + 1, patch_size):
             for j in range(0, w - patch_size + 1, patch_size):
-                img_patch = opt_data[i:i + patch_size, j:j + patch_size, :]
-                mask_patch = mask_data[i:i + patch_size, j:j + patch_size]
+                if use_stage1_prediction:
+                    opt_patch = opt_data[i:i + patch_size, j:j + patch_size, :]
+                    pred_mask = terrain_model.predict(np.expand_dims(opt_patch, axis=0), verbose=0)[0]
+                    mask_patch = (pred_mask > 0.5).astype(np.float32)
+                else:
+                    mask_patch = mask_data[i:i + patch_size, j:j + patch_size].astype(np.float32)
+                    mask_patch = np.expand_dims(mask_patch, axis=-1)
 
                 # Discard invalid patches that are all zero (satellite border blackouts)
-                if np.max(img_patch) > 0:
-                    # Normalize optical reflectance to [0, 1]
-                    img_patch = img_patch.astype(np.float32)
-                    img_patch = img_patch / np.max(img_patch)
-
-                    # Risk score = fraction of the patch currently flooded
+                if np.max(mask_patch) > 0:
                     risk_score = np.mean(mask_patch > 0.0)
-
-                    all_imgs.append(img_patch)
+                    all_masks.append(mask_patch)
                     all_ts.append(ts_data)
                     all_labels.append(risk_score)
 
-    return np.array(all_imgs), np.array(all_ts), np.array(all_labels).astype(np.float32)
+    return np.array(all_masks), np.array(all_ts), np.array(all_labels).astype(np.float32)
 
 def train_fusion_model():
     """
-    Trains the multi-modal fusion model using aligned image patches
+    Trains the multi-modal fusion model using aligned terrain mask patches
     and weather time-series to predict a continuous flood risk score.
     """
     print("\n--- Initiating Multi-Modal Fusion Training ---")
@@ -129,25 +155,25 @@ def train_fusion_model():
     val_regions = ['bayelsa_coast_2022']
 
     print("Forging Multi-Modal Tensors for Training...")
-    train_imgs, train_ts, train_labels = extract_fusion_data(train_regions)
+    train_masks, train_ts, train_labels = extract_fusion_data(train_regions)
 
     print("Forging Multi-Modal Tensors for Validation...")
-    val_imgs, val_ts, val_labels = extract_fusion_data(val_regions)
+    val_masks, val_ts, val_labels = extract_fusion_data(val_regions)
 
     print("Payload Ready:")
-    print(f" -> Optical Tensors: {train_imgs.shape}")
+    print(f" -> Terrain Mask Tensors: {train_masks.shape}")
     print(f" -> Weather Tensors: {train_ts.shape}")
     print(f" -> Target Risk Scores: {train_labels.shape}")
 
-    # Build tf.data datasets: each element is ((image, time-series), label)
-    train_dataset = tf.data.Dataset.from_tensor_slices(((train_imgs, train_ts), train_labels))
+    # Build tf.data datasets: each element is ((mask, time-series), label)
+    train_dataset = tf.data.Dataset.from_tensor_slices(((train_masks, train_ts), train_labels))
     train_dataset = train_dataset.shuffle(1000).batch(16).prefetch(tf.data.AUTOTUNE)
 
-    val_dataset = tf.data.Dataset.from_tensor_slices(((val_imgs, val_ts), val_labels))
+    val_dataset = tf.data.Dataset.from_tensor_slices(((val_masks, val_ts), val_labels))
     val_dataset = val_dataset.batch(16).prefetch(tf.data.AUTOTUNE)
 
     # Initialize the fusion model architecture
-    model = build_fusion_model(img_shape=(256, 256, 4), ts_shape=(24, 3))
+    model = build_fusion_model(mask_shape=(256, 256, 1), ts_shape=(24, 3))
 
     callbacks = [
         tf.keras.callbacks.ModelCheckpoint(
