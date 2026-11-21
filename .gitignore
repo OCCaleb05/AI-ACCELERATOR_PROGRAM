@@ -1,0 +1,12 @@
+# Ignore Data and Models
+data/
+models/
+__pycache__/
+.venv/
+.venv-tf/
+*.keras
+*.npy
+*.npz
+*.tif
+*.jp2
+*.zip
